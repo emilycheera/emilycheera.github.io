@@ -1,0 +1,41 @@
+body {
+    font-family: 'EB Garamond', serif;
+    height: 100%;
+}
+
+.navbar-brand {
+    font-family: 'Oswald', sans-serif;
+    text-transform: uppercase;
+    color: #000;
+    font-size: .9rem;
+    letter-spacing: .1rem;
+    font-weight: 700;
+}
+
+.link:hover {
+    color: #000;
+    text-transform: underline;
+}
+
+.vh-100 {
+    min-height: 100vh;
+}
+
+.link {
+    font-family: 'Oswald', sans-serif;
+    text-transform: uppercase;
+    color: #000;
+    font-size: .9rem;
+    letter-spacing: .1rem;
+    font-weight: 700;
+}
+
+h1 {
+    font-size: calc(25px + 3.8vw);
+    color: #E85A4F;
+}
+
+.headline {
+    text-align: center;
+}
+
